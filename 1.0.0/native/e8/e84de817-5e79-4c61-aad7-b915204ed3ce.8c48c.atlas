@@ -1,0 +1,342 @@
+
+common_bg.jpg
+size: 1688,902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_bt_unpack/ui_bg_top_cloud_screen
+  rotate: false
+  xy: 1, 389
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_00
+  rotate: false
+  xy: 979, 77
+  size: 126, 130
+  orig: 180, 180
+  offset: 25, 25
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_01
+  rotate: true
+  xy: 1551, 259
+  size: 140, 136
+  orig: 180, 180
+  offset: 17, 19
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_02
+  rotate: false
+  xy: 1505, 401
+  size: 150, 156
+  orig: 180, 180
+  offset: 12, 11
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_03
+  rotate: false
+  xy: 1277, 47
+  size: 164, 170
+  orig: 180, 180
+  offset: 6, 4
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_04
+  rotate: false
+  xy: 1137, 545
+  size: 172, 174
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_05
+  rotate: false
+  xy: 515, 725
+  size: 174, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_06
+  rotate: true
+  xy: 871, 209
+  size: 178, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_07
+  rotate: false
+  xy: 1, 207
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_08
+  rotate: false
+  xy: 1, 25
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_09
+  rotate: false
+  xy: 327, 207
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_10
+  rotate: false
+  xy: 509, 207
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_11
+  rotate: false
+  xy: 979, 721
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_12
+  rotate: false
+  xy: 691, 721
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_13
+  rotate: false
+  xy: 691, 539
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_14
+  rotate: true
+  xy: 957, 539
+  size: 180, 178
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_15
+  rotate: true
+  xy: 691, 207
+  size: 180, 178
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_16
+  rotate: false
+  xy: 515, 547
+  size: 174, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_17
+  rotate: false
+  xy: 1161, 727
+  size: 170, 174
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_18
+  rotate: false
+  xy: 1311, 553
+  size: 168, 172
+  orig: 180, 180
+  offset: 2, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_19
+  rotate: false
+  xy: 1333, 731
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_20
+  rotate: false
+  xy: 1049, 219
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_21
+  rotate: false
+  xy: 1107, 47
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_22
+  rotate: false
+  xy: 1219, 219
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_23
+  rotate: false
+  xy: 1481, 559
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_24
+  rotate: false
+  xy: 1503, 731
+  size: 166, 170
+  orig: 180, 180
+  offset: 3, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_25
+  rotate: true
+  xy: 1335, 391
+  size: 160, 168
+  orig: 180, 180
+  offset: 9, 2
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_26
+  rotate: false
+  xy: 1389, 223
+  size: 160, 166
+  orig: 180, 180
+  offset: 9, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_27
+  rotate: true
+  xy: 515, 395
+  size: 150, 166
+  orig: 180, 180
+  offset: 18, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_28
+  rotate: true
+  xy: 1443, 71
+  size: 150, 146
+  orig: 180, 180
+  offset: 18, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_29
+  rotate: false
+  xy: 183, 25
+  size: 148, 36
+  orig: 180, 180
+  offset: 19, 31
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_00
+  rotate: false
+  xy: 1, 5
+  size: 324, 18
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_01
+  rotate: false
+  xy: 643, 77
+  size: 324, 38
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_02
+  rotate: true
+  xy: 275, 63
+  size: 324, 50
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_03
+  rotate: false
+  xy: 333, 1
+  size: 324, 62
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_04
+  rotate: false
+  xy: 659, 1
+  size: 324, 74
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_05
+  rotate: true
+  xy: 873, 577
+  size: 324, 82
+  orig: 324, 110
+  offset: 0, 0
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_06
+  rotate: true
+  xy: 183, 63
+  size: 324, 90
+  orig: 324, 110
+  offset: 0, 1
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_07
+  rotate: false
+  xy: 327, 117
+  size: 324, 88
+  orig: 324, 110
+  offset: 0, 2
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_08
+  rotate: false
+  xy: 653, 119
+  size: 324, 86
+  orig: 324, 110
+  offset: 0, 3
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_09
+  rotate: false
+  xy: 683, 455
+  size: 324, 82
+  orig: 324, 110
+  offset: 0, 6
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_10
+  rotate: false
+  xy: 1009, 455
+  size: 324, 82
+  orig: 324, 110
+  offset: 0, 6
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_11
+  rotate: false
+  xy: 683, 389
+  size: 314, 64
+  orig: 324, 110
+  offset: 5, 24
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_12
+  rotate: false
+  xy: 999, 391
+  size: 314, 62
+  orig: 324, 110
+  offset: 5, 25
+  index: -1
+tb_bw_unpack/ib_bar_b_vfx_a_add_13
+  rotate: false
+  xy: 327, 65
+  size: 314, 50
+  orig: 324, 110
+  offset: 5, 38
+  index: -1
+
+common_bg2.png
+size: 885,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_ui_unpack/ui_bg_top
+  rotate: false
+  xy: 1, 1
+  size: 756, 588
+  orig: 756, 588
+  offset: 0, 0
+  index: -1
+fs_lantern_unpack/bl_vfx_d_03_normal
+  rotate: false
+  xy: 759, 385
+  size: 125, 204
+  orig: 125, 204
+  offset: 0, 0
+  index: -1
+

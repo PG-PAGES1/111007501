@@ -1,0 +1,27 @@
+
+win0.png
+size: 1771,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tb_bw_part_unpack/bw_board_normal
+  rotate: true
+  xy: 1252, 2
+  size: 683, 518
+  orig: 686, 525
+  offset: 3, 3
+  index: -1
+tb_bw_part_unpack/mw_board_normal
+  rotate: true
+  xy: 703, 1
+  size: 684, 547
+  orig: 756, 558
+  offset: 36, 5
+  index: -1
+tb_bw_part_unpack/smw_board_normal
+  rotate: true
+  xy: 1, 1
+  size: 684, 700
+  orig: 756, 701
+  offset: 36, 1
+  index: -1

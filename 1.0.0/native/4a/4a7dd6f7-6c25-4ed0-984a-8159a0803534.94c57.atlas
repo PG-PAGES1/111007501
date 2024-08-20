@@ -1,0 +1,439 @@
+
+scatter.jpg
+size: 1986,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_appear_pink/scatter_vfx_a_normal_00
+  rotate: false
+  xy: 1729, 397
+  size: 126, 166
+  orig: 180, 180
+  offset: 27, 7
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_01
+  rotate: false
+  xy: 1729, 229
+  size: 126, 166
+  orig: 180, 180
+  offset: 27, 7
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_02
+  rotate: true
+  xy: 1383, 413
+  size: 126, 168
+  orig: 180, 180
+  offset: 27, 6
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_03
+  rotate: false
+  xy: 1081, 1
+  size: 128, 164
+  orig: 180, 180
+  offset: 26, 8
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_04
+  rotate: true
+  xy: 513, 1
+  size: 128, 166
+  orig: 180, 180
+  offset: 26, 7
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_05
+  rotate: false
+  xy: 1211, 1
+  size: 128, 164
+  orig: 180, 180
+  offset: 26, 8
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_06
+  rotate: false
+  xy: 1857, 407
+  size: 128, 156
+  orig: 180, 180
+  offset: 26, 13
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_07
+  rotate: false
+  xy: 1399, 109
+  size: 126, 156
+  orig: 180, 180
+  offset: 27, 12
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_08
+  rotate: false
+  xy: 1857, 129
+  size: 126, 154
+  orig: 180, 180
+  offset: 27, 13
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_09
+  rotate: true
+  xy: 1691, 109
+  size: 118, 158
+  orig: 180, 180
+  offset: 31, 11
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_10
+  rotate: true
+  xy: 189, 1
+  size: 118, 160
+  orig: 180, 180
+  offset: 31, 10
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_11
+  rotate: true
+  xy: 351, 1
+  size: 118, 160
+  orig: 180, 180
+  offset: 31, 10
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_12
+  rotate: true
+  xy: 1527, 131
+  size: 124, 162
+  orig: 180, 180
+  offset: 28, 9
+  index: -1
+scatter_appear_pink/scatter_vfx_a_normal_13
+  rotate: true
+  xy: 1551, 257
+  size: 124, 167
+  orig: 180, 180
+  offset: 28, 6
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_00
+  rotate: false
+  xy: 1725, 667
+  size: 58, 62
+  orig: 270, 270
+  offset: 106, 107
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_01
+  rotate: true
+  xy: 1460, 9
+  size: 98, 94
+  orig: 270, 270
+  offset: 86, 89
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_02
+  rotate: false
+  xy: 1857, 285
+  size: 128, 120
+  orig: 270, 270
+  offset: 70, 77
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_03
+  rotate: false
+  xy: 1399, 267
+  size: 150, 144
+  orig: 270, 270
+  offset: 58, 67
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_04
+  rotate: true
+  xy: 1235, 201
+  size: 166, 162
+  orig: 270, 270
+  offset: 50, 58
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_05
+  rotate: true
+  xy: 851, 351
+  size: 180, 176
+  orig: 270, 270
+  offset: 41, 51
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_06
+  rotate: false
+  xy: 1, 42
+  size: 186, 190
+  orig: 270, 270
+  offset: 35, 45
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_07
+  rotate: true
+  xy: 1203, 723
+  size: 190, 198
+  orig: 270, 270
+  offset: 33, 42
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_08
+  rotate: true
+  xy: 793, 721
+  size: 192, 204
+  orig: 270, 270
+  offset: 30, 39
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_09
+  rotate: false
+  xy: 383, 707
+  size: 198, 206
+  orig: 270, 270
+  offset: 27, 38
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_10
+  rotate: true
+  xy: 583, 717
+  size: 196, 208
+  orig: 270, 270
+  offset: 28, 38
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_11
+  rotate: false
+  xy: 183, 705
+  size: 198, 208
+  orig: 270, 270
+  offset: 26, 37
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_12
+  rotate: true
+  xy: 999, 721
+  size: 192, 202
+  orig: 270, 270
+  offset: 31, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_13
+  rotate: false
+  xy: 1, 428
+  size: 180, 202
+  orig: 270, 270
+  offset: 43, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_14
+  rotate: true
+  xy: 1403, 731
+  size: 182, 202
+  orig: 270, 270
+  offset: 41, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_15
+  rotate: false
+  xy: 183, 507
+  size: 182, 196
+  orig: 270, 270
+  offset: 41, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_16
+  rotate: true
+  xy: 1607, 731
+  size: 182, 194
+  orig: 270, 270
+  offset: 41, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_17
+  rotate: false
+  xy: 369, 131
+  size: 180, 188
+  orig: 270, 270
+  offset: 42, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_18
+  rotate: false
+  xy: 497, 517
+  size: 176, 188
+  orig: 270, 270
+  offset: 43, 36
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_19
+  rotate: false
+  xy: 551, 139
+  size: 176, 186
+  orig: 270, 270
+  offset: 43, 37
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_20
+  rotate: false
+  xy: 1029, 535
+  size: 176, 184
+  orig: 270, 270
+  offset: 40, 39
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_21
+  rotate: true
+  xy: 1803, 739
+  size: 174, 182
+  orig: 270, 270
+  offset: 41, 40
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_22
+  rotate: true
+  xy: 1553, 383
+  size: 168, 174
+  orig: 270, 270
+  offset: 45, 39
+  index: -1
+scatter_spawn_particle/scatter_vfx_d_spawn_23
+  rotate: true
+  xy: 681, 1
+  size: 136, 172
+  orig: 270, 270
+  offset: 75, 40
+  index: -1
+scatter_vfx_b_screen
+  rotate: false
+  xy: 1, 632
+  size: 180, 281
+  orig: 180, 281
+  offset: 0, 0
+  index: -1
+scatter_vfx_c_screen
+  rotate: false
+  xy: 1556, 44
+  size: 96, 85
+  orig: 106, 95
+  offset: 5, 5
+  index: -1
+scatter_vfx_c_screen2
+  rotate: true
+  xy: 1341, 1
+  size: 106, 117
+  orig: 106, 117
+  offset: 0, 0
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_00
+  rotate: false
+  xy: 499, 327
+  size: 178, 188
+  orig: 270, 270
+  offset: 58, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_01
+  rotate: false
+  xy: 1207, 537
+  size: 174, 184
+  orig: 270, 270
+  offset: 58, 36
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_02
+  rotate: false
+  xy: 675, 529
+  size: 174, 186
+  orig: 270, 270
+  offset: 58, 38
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_03
+  rotate: false
+  xy: 729, 157
+  size: 168, 184
+  orig: 270, 270
+  offset: 54, 41
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_04
+  rotate: true
+  xy: 1803, 565
+  size: 172, 182
+  orig: 270, 270
+  offset: 48, 42
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_05
+  rotate: false
+  xy: 679, 343
+  size: 170, 184
+  orig: 270, 270
+  offset: 47, 40
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_06
+  rotate: false
+  xy: 1029, 351
+  size: 170, 182
+  orig: 270, 270
+  offset: 46, 41
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_07
+  rotate: false
+  xy: 899, 167
+  size: 170, 182
+  orig: 270, 270
+  offset: 46, 43
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_08
+  rotate: false
+  xy: 1383, 541
+  size: 168, 180
+  orig: 270, 270
+  offset: 46, 41
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_09
+  rotate: false
+  xy: 1071, 167
+  size: 162, 182
+  orig: 270, 270
+  offset: 49, 38
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_10
+  rotate: true
+  xy: 899, 1
+  size: 164, 180
+  orig: 270, 270
+  offset: 48, 36
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_11
+  rotate: false
+  xy: 1553, 553
+  size: 170, 176
+  orig: 270, 270
+  offset: 47, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_12
+  rotate: true
+  xy: 1207, 369
+  size: 166, 174
+  orig: 270, 270
+  offset: 53, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_13
+  rotate: false
+  xy: 851, 533
+  size: 176, 186
+  orig: 270, 270
+  offset: 53, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_14
+  rotate: false
+  xy: 1, 234
+  size: 184, 192
+  orig: 270, 270
+  offset: 52, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_15
+  rotate: false
+  xy: 187, 313
+  size: 180, 192
+  orig: 270, 270
+  offset: 56, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_16
+  rotate: false
+  xy: 367, 513
+  size: 128, 190
+  orig: 270, 270
+  offset: 106, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_17
+  rotate: false
+  xy: 369, 321
+  size: 128, 190
+  orig: 270, 270
+  offset: 108, 35
+  index: -1
+scatter_wait_particle/scatter_vfx_d_loop_18
+  rotate: false
+  xy: 189, 121
+  size: 178, 190
+  orig: 270, 270
+  offset: 60, 35
+  index: -1
+
+scatter2.png
+size: 150,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_scatter_glow
+  rotate: false
+  xy: 1, 1
+  size: 148, 552
+  orig: 148, 560
+  offset: 0, 0
+  index: -1

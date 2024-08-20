@@ -1,0 +1,132 @@
+
+spiral_button.png
+size: 1870,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asb_border
+  rotate: false
+  xy: 1670, 403
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+sb_border
+  rotate: false
+  xy: 1670, 205
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+sb_border_animation/sb_wave_00
+  rotate: true
+  xy: 1621, 601
+  size: 224, 246
+  orig: 382, 372
+  offset: 76, 64
+  index: -1
+sb_border_animation/sb_wave_01
+  rotate: true
+  xy: 1621, 827
+  size: 236, 248
+  orig: 382, 372
+  offset: 71, 64
+  index: -1
+sb_border_animation/sb_wave_02
+  rotate: true
+  xy: 983, 61
+  size: 280, 278
+  orig: 382, 372
+  offset: 54, 50
+  index: -1
+sb_border_animation/sb_wave_03
+  rotate: false
+  xy: 335, 29
+  size: 304, 304
+  orig: 382, 372
+  offset: 42, 37
+  index: -1
+sb_border_animation/sb_wave_04
+  rotate: false
+  xy: 1, 1
+  size: 332, 332
+  orig: 382, 372
+  offset: 28, 23
+  index: -1
+sb_border_animation/sb_wave_05
+  rotate: false
+  xy: 1085, 355
+  size: 350, 350
+  orig: 382, 372
+  offset: 19, 15
+  index: -1
+sb_border_animation/sb_wave_06
+  rotate: false
+  xy: 727, 707
+  size: 356, 356
+  orig: 382, 372
+  offset: 16, 11
+  index: -1
+sb_border_animation/sb_wave_07
+  rotate: true
+  xy: 365, 341
+  size: 360, 358
+  orig: 382, 372
+  offset: 14, 10
+  index: -1
+sb_border_animation/sb_wave_08
+  rotate: true
+  xy: 1, 699
+  size: 364, 362
+  orig: 382, 372
+  offset: 12, 8
+  index: -1
+sb_border_animation/sb_wave_09
+  rotate: false
+  xy: 725, 343
+  size: 358, 358
+  orig: 382, 372
+  offset: 15, 10
+  index: -1
+sb_border_animation/sb_wave_10
+  rotate: false
+  xy: 1, 335
+  size: 362, 362
+  orig: 382, 372
+  offset: 13, 8
+  index: -1
+sb_border_animation/sb_wave_11
+  rotate: false
+  xy: 1263, 707
+  size: 356, 356
+  orig: 382, 372
+  offset: 16, 11
+  index: -1
+sb_border_animation/sb_wave_12
+  rotate: false
+  xy: 365, 703
+  size: 360, 360
+  orig: 382, 372
+  offset: 14, 10
+  index: -1
+sb_border_animation/sb_wave_13
+  rotate: false
+  xy: 1263, 5
+  size: 346, 348
+  orig: 382, 372
+  offset: 21, 15
+  index: -1
+sb_border_animation/sb_wave_14
+  rotate: true
+  xy: 641, 1
+  size: 338, 340
+  orig: 382, 372
+  offset: 25, 20
+  index: -1
+sb_glow_add
+  rotate: false
+  xy: 1437, 368
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1

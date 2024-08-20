@@ -1,0 +1,167 @@
+
+speed.jpg
+size: 444,1145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_bt_unpack/fs_vfx_a_screen
+  rotate: false
+  xy: 1, 736
+  size: 170, 408
+  orig: 170, 408
+  offset: 0, 0
+  index: -1
+light_bt_unpack/fs_vfx_b_screen
+  rotate: true
+  xy: 1, 56
+  size: 69, 322
+  orig: 69, 322
+  offset: 0, 0
+  index: -1
+light_bt_unpack/fs_vfx_d_screen
+  rotate: true
+  xy: 56, 366
+  size: 53, 299
+  orig: 53, 299
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_00
+  rotate: false
+  xy: 1, 347
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_01
+  rotate: false
+  xy: 173, 757
+  size: 52, 387
+  orig: 53, 387
+  offset: 1, 0
+  index: -1
+su_frame/fs_vfx_c_screen_02
+  rotate: true
+  xy: 1, 292
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_03
+  rotate: false
+  xy: 227, 757
+  size: 52, 387
+  orig: 53, 387
+  offset: 1, 0
+  index: -1
+su_frame/fs_vfx_c_screen_04
+  rotate: false
+  xy: 281, 757
+  size: 52, 387
+  orig: 53, 387
+  offset: 1, 0
+  index: -1
+su_frame/fs_vfx_c_screen_05
+  rotate: true
+  xy: 1, 237
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_06
+  rotate: true
+  xy: 1, 182
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_07
+  rotate: true
+  xy: 1, 127
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_08
+  rotate: false
+  xy: 390, 33
+  size: 50, 386
+  orig: 53, 387
+  offset: 3, 1
+  index: -1
+su_frame/fs_vfx_c_screen_09
+  rotate: true
+  xy: 56, 629
+  size: 50, 387
+  orig: 53, 387
+  offset: 3, 0
+  index: -1
+su_frame/fs_vfx_c_screen_10
+  rotate: true
+  xy: 56, 577
+  size: 50, 387
+  orig: 53, 387
+  offset: 3, 0
+  index: -1
+su_frame/fs_vfx_c_screen_11
+  rotate: true
+  xy: 56, 525
+  size: 50, 387
+  orig: 53, 387
+  offset: 3, 0
+  index: -1
+su_frame/fs_vfx_c_screen_12
+  rotate: true
+  xy: 56, 473
+  size: 50, 387
+  orig: 53, 387
+  offset: 3, 0
+  index: -1
+su_frame/fs_vfx_c_screen_13
+  rotate: true
+  xy: 56, 421
+  size: 50, 387
+  orig: 53, 387
+  offset: 3, 0
+  index: -1
+su_frame/fs_vfx_c_screen_14
+  rotate: false
+  xy: 335, 757
+  size: 52, 387
+  orig: 53, 387
+  offset: 1, 0
+  index: -1
+su_frame/fs_vfx_c_screen_15
+  rotate: false
+  xy: 389, 757
+  size: 52, 387
+  orig: 53, 387
+  offset: 1, 0
+  index: -1
+su_frame/fs_vfx_c_screen_16
+  rotate: true
+  xy: 1, 1
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+su_frame/fs_vfx_c_screen_17
+  rotate: true
+  xy: 56, 681
+  size: 53, 387
+  orig: 53, 387
+  offset: 0, 0
+  index: -1
+
+speed2.png
+size: 202,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: false
+  xy: 1, 1
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+

@@ -1,0 +1,250 @@
+
+frame_drop.jpg
+size: 1801,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_bt_unpack/feature_vfx_d_add
+  rotate: false
+  xy: 1, 266
+  size: 97, 271
+  orig: 97, 271
+  offset: 0, 0
+  index: -1
+light_bt_unpack/feature_vfx_e_screen
+  rotate: false
+  xy: 1, 25
+  size: 105, 239
+  orig: 105, 239
+  offset: 0, 0
+  index: -1
+light_bt_unpack/mh_vfx_d_screen
+  rotate: false
+  xy: 1692, 84
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_00
+  rotate: false
+  xy: 1564, 55
+  size: 126, 130
+  orig: 180, 180
+  offset: 25, 25
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_01
+  rotate: true
+  xy: 1426, 43
+  size: 140, 136
+  orig: 180, 180
+  offset: 17, 19
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_02
+  rotate: false
+  xy: 1122, 27
+  size: 150, 156
+  orig: 180, 180
+  offset: 12, 11
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_03
+  rotate: false
+  xy: 1314, 185
+  size: 164, 170
+  orig: 180, 180
+  offset: 6, 4
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_04
+  rotate: false
+  xy: 288, 181
+  size: 172, 174
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_05
+  rotate: false
+  xy: 108, 1
+  size: 174, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_06
+  rotate: false
+  xy: 108, 179
+  size: 178, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_07
+  rotate: false
+  xy: 100, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_08
+  rotate: false
+  xy: 282, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_09
+  rotate: false
+  xy: 464, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_10
+  rotate: false
+  xy: 646, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_11
+  rotate: false
+  xy: 828, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_12
+  rotate: false
+  xy: 1010, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_13
+  rotate: false
+  xy: 1192, 357
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_14
+  rotate: false
+  xy: 1374, 359
+  size: 180, 178
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_15
+  rotate: false
+  xy: 1556, 359
+  size: 180, 178
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_16
+  rotate: false
+  xy: 284, 1
+  size: 174, 176
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_17
+  rotate: false
+  xy: 462, 181
+  size: 170, 174
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_18
+  rotate: false
+  xy: 634, 183
+  size: 168, 172
+  orig: 180, 180
+  offset: 2, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_19
+  rotate: false
+  xy: 804, 185
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_20
+  rotate: false
+  xy: 974, 185
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_21
+  rotate: false
+  xy: 1144, 185
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_22
+  rotate: false
+  xy: 460, 9
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_23
+  rotate: false
+  xy: 1480, 187
+  size: 168, 170
+  orig: 180, 180
+  offset: 1, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_24
+  rotate: false
+  xy: 630, 9
+  size: 166, 170
+  orig: 180, 180
+  offset: 3, 0
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_25
+  rotate: false
+  xy: 798, 13
+  size: 160, 168
+  orig: 180, 180
+  offset: 9, 2
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_26
+  rotate: false
+  xy: 960, 17
+  size: 160, 166
+  orig: 180, 180
+  offset: 9, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_27
+  rotate: false
+  xy: 1650, 191
+  size: 150, 166
+  orig: 180, 180
+  offset: 18, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_28
+  rotate: false
+  xy: 1274, 37
+  size: 150, 146
+  orig: 180, 180
+  offset: 18, 3
+  index: -1
+sym_explode_fw_unpack/wh_vfx_d_screen_29
+  rotate: true
+  xy: 1738, 389
+  size: 148, 36
+  orig: 180, 180
+  offset: 19, 31
+  index: -1
+
+frame_drop2.png
+size: 143,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tb_bw_part_unpack/feature_vfx_i_normal
+  rotate: false
+  xy: 1, 1
+  size: 141, 167
+  orig: 141, 167
+  offset: 0, 0
+  index: -1
